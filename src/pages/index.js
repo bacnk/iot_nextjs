@@ -28,7 +28,7 @@ export default function BinaryUpload() {
 
   return (
     <div>
-      <h1>Upload Binary File</h1>
+      <h1>Upload Binary File 111</h1>
       <div>
         <input type="file" onChange={handleFileChange} />
         <button onClick={handleUpload}>Upload</button>
